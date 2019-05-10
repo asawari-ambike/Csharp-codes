@@ -1,0 +1,9 @@
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\bin\Debug\netstandard2.0\Assignments.deps.json
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\bin\Debug\netstandard2.0\Assignments.dll
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\bin\Debug\netstandard2.0\Assignments.pdb
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\obj\Debug\netstandard2.0\Assignments.csprojAssemblyReference.cache
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\obj\Debug\netstandard2.0\Assignments.csproj.CoreCompileInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\obj\Debug\netstandard2.0\Assignments.AssemblyInfoInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\obj\Debug\netstandard2.0\Assignments.AssemblyInfo.cs
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\obj\Debug\netstandard2.0\Assignments.dll
+D:\Asawari\Testing\Projects\Automation training\Adv C# assmt with unit test\Assignments\obj\Debug\netstandard2.0\Assignments.pdb
