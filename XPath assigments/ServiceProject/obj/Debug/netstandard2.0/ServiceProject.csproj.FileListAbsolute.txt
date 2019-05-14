@@ -1,0 +1,18 @@
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.deps.json
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.dll
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.pdb
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csprojAssemblyReference.cache
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csproj.CoreCompileInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfoInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfo.cs
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.dll
+D:\Asawari\Testing\Projects\Automation training\Selenium practice 1\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.pdb
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.deps.json
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.dll
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\bin\Debug\netstandard2.0\ServiceProject.pdb
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csprojAssemblyReference.cache
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.csproj.CoreCompileInputs.cache
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfoInputs.cache
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.AssemblyInfo.cs
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.dll
+d:\Asawari\Testing\Projects\Automation training\XPath assigments\ServiceProject\obj\Debug\netstandard2.0\ServiceProject.pdb
