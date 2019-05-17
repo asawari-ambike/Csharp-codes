@@ -1,0 +1,11 @@
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\bin\Debug\netcoreapp2.2\Selenium Practice Assignments.deps.json
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\bin\Debug\netcoreapp2.2\Selenium Practice Assignments.runtimeconfig.json
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\bin\Debug\netcoreapp2.2\Selenium Practice Assignments.runtimeconfig.dev.json
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\bin\Debug\netcoreapp2.2\Selenium Practice Assignments.dll
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\bin\Debug\netcoreapp2.2\Selenium Practice Assignments.pdb
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\obj\Debug\netcoreapp2.2\Selenium Practice Assignments.csprojAssemblyReference.cache
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\obj\Debug\netcoreapp2.2\Selenium Practice Assignments.csproj.CoreCompileInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\obj\Debug\netcoreapp2.2\Selenium Practice Assignments.AssemblyInfoInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\obj\Debug\netcoreapp2.2\Selenium Practice Assignments.AssemblyInfo.cs
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\obj\Debug\netcoreapp2.2\Selenium Practice Assignments.dll
+D:\Asawari\Testing\Projects\Automation training\Selenium Practice Assignments\obj\Debug\netcoreapp2.2\Selenium Practice Assignments.pdb
