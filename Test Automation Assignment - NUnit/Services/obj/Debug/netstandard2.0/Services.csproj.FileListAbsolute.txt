@@ -1,0 +1,18 @@
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\bin\Debug\netstandard2.0\Services.deps.json
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\bin\Debug\netstandard2.0\Services.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\bin\Debug\netstandard2.0\Services.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\obj\Debug\netstandard2.0\Services.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\Services\obj\Debug\netstandard2.0\Services.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\bin\Debug\netstandard2.0\Services.deps.json
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\bin\Debug\netstandard2.0\Services.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\bin\Debug\netstandard2.0\Services.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\obj\Debug\netstandard2.0\Services.csprojAssemblyReference.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\obj\Debug\netstandard2.0\Services.csproj.CoreCompileInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\obj\Debug\netstandard2.0\Services.AssemblyInfoInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\obj\Debug\netstandard2.0\Services.AssemblyInfo.cs
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\obj\Debug\netstandard2.0\Services.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\Services\obj\Debug\netstandard2.0\Services.pdb

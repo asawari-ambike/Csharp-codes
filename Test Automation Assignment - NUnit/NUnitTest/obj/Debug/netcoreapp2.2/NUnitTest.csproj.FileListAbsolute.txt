@@ -1,0 +1,34 @@
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.deps.json
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.runtimeconfig.json
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.runtimeconfig.dev.json
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\Services.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\bin\Debug\netcoreapp2.2\Services.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csprojAssemblyReference.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csproj.CoreCompileInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.AssemblyInfoInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.AssemblyInfo.cs
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csproj.CopyComplete
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.deps.json
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.runtimeconfig.json
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.runtimeconfig.dev.json
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\NUnitTest.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\Services.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\bin\Debug\netcoreapp2.2\Services.pdb
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csprojAssemblyReference.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csproj.CoreCompileInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.AssemblyInfoInputs.cache
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.AssemblyInfo.cs
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.csproj.CopyComplete
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.dll
+D:\Asawari\Testing\Projects\Automation training\Test Automation Assignment - NUnit\NUnitTest\obj\Debug\netcoreapp2.2\NUnitTest.pdb
